@@ -1,6 +1,6 @@
 # Ex. 10 - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE:2.1.23
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -31,12 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+https://private-user-images.githubusercontent.com/144979451/293302983-0d64e97b-581e-48d9-b627-1d9bcffd8c49.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQxNjgwNTYsIm5iZiI6MTcwNDE2Nzc1NiwicGF0aCI6Ii8xNDQ5Nzk0NTEvMjkzMzAyOTgzLTBkNjRlOTdiLTU4MWUtNDhkOS1iNjI3LTFkOWJjZmZkOGM0OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwMlQwMzU1NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZTk1YzY3YTUyMzI4ZWJiZGZiYmE4OGUxZWFjMjgwY2MwMjc4OWE4YjJkNWVjN2IyNTViYjlhNGJjMmRiYTk4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.7j5thMj6eIQNJ3asHaqF7G-v-s04rlOrjXndUgA2pxA
 
 ### Output:
+https://private-user-images.githubusercontent.com/144979451/293303000-095d3908-f3f5-42be-98f2-998d7426898f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQxNjgwNTYsIm5iZiI6MTcwNDE2Nzc1NiwicGF0aCI6Ii8xNDQ5Nzk0NTEvMjkzMzAzMDAwLTA5NWQzOTA4LWYzZjUtNDJiZS05OGYyLTk5OGQ3NDI2ODk4Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwMlQwMzU1NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jZjZmYTRjMjAwZjdkODU2Mzg3ZmNkMTVhZTlmNDZkOGIxNjIzZTU1OTVkN2ZhZDMwNzk5YzVjYzQ1NjQzMDk1JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.gl6Nq0s-QhwWKjOxsHCHyWqHuc6_vX0A5NOs--XGhKQ
 
-
-### Name:
-### Register Number:
+### Name:vishnu km
+### Register Number: 23000132
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
